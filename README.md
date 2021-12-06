@@ -1,8 +1,7 @@
 # Modelling in Quant Finance
 A collection of notes I created when learning quantitative modelling in finance.
 
-**Who am I?**
-
+**Who am I?**  
 I am a PhD in mathematics, currently preparing for a career in quantitative finance.
 
 **Why these notes?**
