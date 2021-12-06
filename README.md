@@ -1,5 +1,5 @@
 # Modelling in Quant Finance
-A collection of notes I created for learning how to model in quantitative finance.
+A collection of notes I created when learning quantitative modelling in finance.
 
 **Who am I?**
 
